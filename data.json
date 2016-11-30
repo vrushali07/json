@@ -1,0 +1,214 @@
+{
+  "computerSE": [
+    {
+      "SubName": "Discrete Mathematics ",
+         
+      "unit I": [ 
+        {
+          "UnitName": "Set Theory and Logic ",
+           "Content":"Discrete Mathematics, Significance of Discrete Mathematics in Computer Engineering, Sets– Naïve Set Theory (Cantorian Set Theory), Axiomatic Set Theory, Need for Sets, Representation of Sets, Set Operations, cardinality of set, principle of inclusion and exclusion, Types of Sets – Countable and Uncountable Sets, Finite and Infinite Sets, Countably Infinite and Uncountably Infinite Sets. Introduction to bounded and unbounded sets and multiset. Countability of Rational Numbers Using Cantor Diagonalization Argument, power set. Propositional Logic- logic, Propositional Equivalences, Application of Propositional Logic-Translating English Sentences, Proof by Mathematical Induction and Strong Mathematical Induction. "
+    }
+      ],
+    "unit II": [
+        {
+          "UnitName": "Relations and Functions ",
+           "Content":"Relations and Their Properties, n-ary Relations and Their Applications, Representing Relations , Closures of Relations, Equivalence Relations, Partial Orderings, partitions, Hasse Diagram, Lattices, Chains and Anti-Chains, Transitive Closure and Warshall‘s Algorithm, n-Ary Relations and their Applications.Functions- Surjective, Injective and Bijective functions, Inverse Functions and Compositions of Functions, The Pigeonhole Principle."
+    }
+      ],
+    "unit III": [
+        {
+          "UnitName": "Counting",
+           "Content":"The Basics of Counting, rule of Sum and Product, Permutations and Combinations, Binomial Coefficients and Identities, Generalized Permutations and Combinations, Algorithms for generating Permutations and Combinations."
+    }
+      ],
+
+    "unit IV": [
+        {
+          "UnitName": "Graph Theory",
+           "Content":"Graphs and Graph Models, Graph Terminology and Special Types of Graphs, Representing Graphs and Graph Isomorphism, Connectivity, Euler and Hamilton Paths, Single source shortest path- Dijkstra's Algorithm, Planar Graphs, Graph Colouring. Case Study- Web Graph, Google map."
+    }
+      ],
+
+    "unit V": [
+        {
+          "UnitName": "Trees",
+           "Content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+    }
+      ],
+     "unit VI": [
+        {
+          "UnitName": "Algebraic Structures and Coding Theory",
+           "Content":"The structure of algebra, Algebraic Systems, Semi Groups, Monoids, Groups, Homomorphism and Normal Subgroups, and congruence relations,  Rings, Integral Domains and Fields, coding theory,  Polynomial Rings and polynomial Codes, Case Study- Brief introduction to  Galois Theory –Field Theory and Group Theory."
+         }
+       ]
+},
+ {
+      "SubName": "Digital Electronics & Logic Design  ",
+      "title": "Art in Full Color",
+     
+      "unit I": [ 
+        {
+          "UnitName": "Combinational Logic Design",
+           "Content":"Logic minimization: Representation of truth-table, Sum of Product (SOP) form, Product of Sum (POS) form, Simplification of logical functions, Minimization of SOP and POS forms using KMaps up to 4 variables and Quine-McCluskey Technique, realization of logic gates.Design of Combinational Logic: Code converter - BCD, Excess-3, Gray code, Binary Code. Half- Adder, Full Adder, Half Subtractor, Full Subtractor, Binary Adder (IC 7483), BCD adder, Look ahead  carry generator, Multiplexers (MUX): MUX (IC 74153, 74151), MUX tree, Demultiplexers (DEMUX)- Decoder. (IC 74138, IC 74154). DMUX Tree, Implementation of SOP and POS using MUX, DMUX,  Comparators, Parity generators and Checker, Priority Encoders."
+    }
+      ],
+    "unit II": [
+        {
+          "UnitName": "Sequential Logic Design ",
+           "Content":"Flip- flop: SR, JK, D, T; Preset & Clear, Master and Slave Flip Flops, Truth Tables and Excitation tables, Conversion from one type to another type of Flip Flop. Registers: Buffer register, shift register, Applications of shift registers. Counters: Asynchronous counter. Synchronous counter, ring counters, BCD Counter, Johnson Counter, Modulus of the counter (IC 7490).Synchronous Sequential Circuit Design: Models – Moore and Mealy, State diagram and State Tables, Design Procedure, Sequence generator and detector. Asynchronous Sequential Circuit Design: Difference with synchronous circuit design, design principles and procedure, applications."
+    }
+      ],
+    "unit III": [
+        {
+          "UnitName": "Algorithmic State Machines",
+           "Content":"Algorithmic State Machines:  Finite State Machines (FSM) and ASM, ASM charts, notations, construction of ASM chart and realization for sequential circuits,  Sequence Generator, Types of Counters. VHDL: Introduction to HDL, Data Objects & Data Types, Attributes., VHDL- Library, Design Entity, Architecture, Modeling Styles, Concurrent and Sequential Statements,Design Examples: VHDL for Combinational Circuits-Adder, MUX, VHDL for Sequential Circuits, Synchronous and Asynchronous Counter."
+    }
+      ],
+
+    "unit IV": [
+        {
+          "UnitName": "Programmable Logic Devices ",
+           "Content":"ROM as PLD, Programmable Logic Array (PLA), Programmable Array Logic (PAL), Designing combinational circuits using PLDs. "
+    }
+      ],
+
+    "unit V": [
+        {
+          "UnitName": "Logic Families",
+           "Content":"Classification of logic families: Unipolar and Bipolar Logic Families, Characteristics of Digital ICs:  Speed, power dissipation, figure of merits, fan-out, Current and voltage parameters, Noise immunity, operating temperature range, power supply requirements. Transistor-Transistor Logic: Operation of TTL, Current sink logic, TTL with active pull up, TTL with open collector output, Schottkey TTL, TTL characteristics, TTL 5400/7400 series, CMOS: CMOS Inverter, CMOS characteristics, CMOS configurations- Wired Logic, Open drain outputs, Interfacing: TTL to CMOS and CMOS to TTL. Tristate Logic and Tristate TTL inverter."
+    }
+      ],
+     "unit VI": [
+        {
+          "UnitName": "Microcontrollers",
+           "Content":"Comparison of typical microprocessor and microcontroller. Microcontroller 8051: Features, architecture, Pin description, Programming model– Special Function Registers, addressing modes, instruction set, Timers and Counters, serial communication, interrupts, interfacing with ADC and DAC."
+         }
+       ]
+},
+      {
+      "SubName": "Digital Electronics & Logic Design  ",
+      
+      "unit I": [ 
+        {
+          "UnitName": "Combinational Logic Design",
+           "Content":"Logic minimization: Representation of truth-table, Sum of Product (SOP) form, Product of Sum (POS) form, Simplification of logical functions, Minimization of SOP and POS forms using KMaps up to 4 variables and Quine-McCluskey Technique, realization of logic gates.Design of Combinational Logic: Code converter - BCD, Excess-3, Gray code, Binary Code. Half- Adder, Full Adder, Half Subtractor, Full Subtractor, Binary Adder (IC 7483), BCD adder, Look ahead  carry generator, Multiplexers (MUX): MUX (IC 74153, 74151), MUX tree, Demultiplexers (DEMUX)- Decoder. (IC 74138, IC 74154). DMUX Tree, Implementation of SOP and POS using MUX, DMUX,  Comparators, Parity generators and Checker, Priority Encoders."
+    }
+      ],
+    "unit II": [
+        {
+          "UnitName": "Sequential Logic Design ",
+           "Content":"Flip- flop: SR, JK, D, T; Preset & Clear, Master and Slave Flip Flops, Truth Tables and Excitation tables, Conversion from one type to another type of Flip Flop. Registers: Buffer register, shift register, Applications of shift registers. Counters: Asynchronous counter. Synchronous counter, ring counters, BCD Counter, Johnson Counter, Modulus of the counter (IC 7490).Synchronous Sequential Circuit Design: Models – Moore and Mealy, State diagram and State Tables, Design Procedure, Sequence generator and detector. Asynchronous Sequential Circuit Design: Difference with synchronous circuit design, design principles and procedure, applications."
+    }
+      ],
+    "unit III": [
+        {
+          "UnitName": "Algorithmic State Machines",
+           "Content":"Algorithmic State Machines:  Finite State Machines (FSM) and ASM, ASM charts, notations, construction of ASM chart and realization for sequential circuits,  Sequence Generator, Types of Counters. VHDL: Introduction to HDL, Data Objects & Data Types, Attributes., VHDL- Library, Design Entity, Architecture, Modeling Styles, Concurrent and Sequential Statements,Design Examples: VHDL for Combinational Circuits-Adder, MUX, VHDL for Sequential Circuits, Synchronous and Asynchronous Counter."
+    }
+      ],
+
+    "unit IV": [
+        {
+          "UnitName": "Programmable Logic Devices ",
+           "Content":"ROM as PLD, Programmable Logic Array (PLA), Programmable Array Logic (PAL), Designing combinational circuits using PLDs. "
+    }
+      ],
+
+    "unit V": [
+        {
+          "UnitName": "Logic Families",
+           "Content":"Classification of logic families: Unipolar and Bipolar Logic Families, Characteristics of Digital ICs:  Speed, power dissipation, figure of merits, fan-out, Current and voltage parameters, Noise immunity, operating temperature range, power supply requirements. Transistor-Transistor Logic: Operation of TTL, Current sink logic, TTL with active pull up, TTL with open collector output, Schottkey TTL, TTL characteristics, TTL 5400/7400 series, CMOS: CMOS Inverter, CMOS characteristics, CMOS configurations- Wired Logic, Open drain outputs, Interfacing: TTL to CMOS and CMOS to TTL. Tristate Logic and Tristate TTL inverter."
+    }
+      ],
+     "unit VI": [
+        {
+          "UnitName": "Microcontrollers",
+           "Content":"Comparison of typical microprocessor and microcontroller. Microcontroller 8051: Features, architecture, Pin description, Programming model– Special Function Registers, addressing modes, instruction set, Timers and Counters, serial communication, interrupts, interfacing with ADC and DAC."
+         }
+       ]
+} ,{
+      "SubName": "Digital Electronics & Logic Design  ",
+     
+      "unit I": [ 
+        {
+          "UnitName": "Combinational Logic Design",
+           "Content":"Logic minimization: Representation of truth-table, Sum of Product (SOP) form, Product of Sum (POS) form, Simplification of logical functions, Minimization of SOP and POS forms using KMaps up to 4 variables and Quine-McCluskey Technique, realization of logic gates.Design of Combinational Logic: Code converter - BCD, Excess-3, Gray code, Binary Code. Half- Adder, Full Adder, Half Subtractor, Full Subtractor, Binary Adder (IC 7483), BCD adder, Look ahead  carry generator, Multiplexers (MUX): MUX (IC 74153, 74151), MUX tree, Demultiplexers (DEMUX)- Decoder. (IC 74138, IC 74154). DMUX Tree, Implementation of SOP and POS using MUX, DMUX,  Comparators, Parity generators and Checker, Priority Encoders."
+    }
+      ],
+    "unit II": [
+        {
+          "UnitName": "Sequential Logic Design ",
+           "Content":"Flip- flop: SR, JK, D, T; Preset & Clear, Master and Slave Flip Flops, Truth Tables and Excitation tables, Conversion from one type to another type of Flip Flop. Registers: Buffer register, shift register, Applications of shift registers. Counters: Asynchronous counter. Synchronous counter, ring counters, BCD Counter, Johnson Counter, Modulus of the counter (IC 7490).Synchronous Sequential Circuit Design: Models – Moore and Mealy, State diagram and State Tables, Design Procedure, Sequence generator and detector. Asynchronous Sequential Circuit Design: Difference with synchronous circuit design, design principles and procedure, applications."
+    }
+      ],
+    "unit III": [
+        {
+          "UnitName": "Algorithmic State Machines",
+           "Content":"Algorithmic State Machines:  Finite State Machines (FSM) and ASM, ASM charts, notations, construction of ASM chart and realization for sequential circuits,  Sequence Generator, Types of Counters. VHDL: Introduction to HDL, Data Objects & Data Types, Attributes., VHDL- Library, Design Entity, Architecture, Modeling Styles, Concurrent and Sequential Statements,Design Examples: VHDL for Combinational Circuits-Adder, MUX, VHDL for Sequential Circuits, Synchronous and Asynchronous Counter."
+    }
+      ],
+
+    "unit IV": [
+        {
+          "UnitName": "Programmable Logic Devices ",
+           "Content":"ROM as PLD, Programmable Logic Array (PLA), Programmable Array Logic (PAL), Designing combinational circuits using PLDs. "
+    }
+      ],
+
+    "unit V": [
+        {
+          "UnitName": "Logic Families",
+           "Content":"Classification of logic families: Unipolar and Bipolar Logic Families, Characteristics of Digital ICs:  Speed, power dissipation, figure of merits, fan-out, Current and voltage parameters, Noise immunity, operating temperature range, power supply requirements. Transistor-Transistor Logic: Operation of TTL, Current sink logic, TTL with active pull up, TTL with open collector output, Schottkey TTL, TTL characteristics, TTL 5400/7400 series, CMOS: CMOS Inverter, CMOS characteristics, CMOS configurations- Wired Logic, Open drain outputs, Interfacing: TTL to CMOS and CMOS to TTL. Tristate Logic and Tristate TTL inverter."
+    }
+      ],
+     "unit VI": [
+        {
+          "UnitName": "Microcontrollers",
+           "Content":"Comparison of typical microprocessor and microcontroller. Microcontroller 8051: Features, architecture, Pin description, Programming model– Special Function Registers, addressing modes, instruction set, Timers and Counters, serial communication, interrupts, interfacing with ADC and DAC."
+         }
+       ]
+} ,{
+      "SubName": "Digital Electronics & Logic Design  ",
+      
+      "unit I": [ 
+        {
+          "UnitName": "Combinational Logic Design",
+           "Content":"Logic minimization: Representation of truth-table, Sum of Product (SOP) form, Product of Sum (POS) form, Simplification of logical functions, Minimization of SOP and POS forms using KMaps up to 4 variables and Quine-McCluskey Technique, realization of logic gates.Design of Combinational Logic: Code converter - BCD, Excess-3, Gray code, Binary Code. Half- Adder, Full Adder, Half Subtractor, Full Subtractor, Binary Adder (IC 7483), BCD adder, Look ahead  carry generator, Multiplexers (MUX): MUX (IC 74153, 74151), MUX tree, Demultiplexers (DEMUX)- Decoder. (IC 74138, IC 74154). DMUX Tree, Implementation of SOP and POS using MUX, DMUX,  Comparators, Parity generators and Checker, Priority Encoders."
+    }
+      ],
+    "unit II": [
+        {
+          "UnitName": "Sequential Logic Design ",
+           "Content":"Flip- flop: SR, JK, D, T; Preset & Clear, Master and Slave Flip Flops, Truth Tables and Excitation tables, Conversion from one type to another type of Flip Flop. Registers: Buffer register, shift register, Applications of shift registers. Counters: Asynchronous counter. Synchronous counter, ring counters, BCD Counter, Johnson Counter, Modulus of the counter (IC 7490).Synchronous Sequential Circuit Design: Models – Moore and Mealy, State diagram and State Tables, Design Procedure, Sequence generator and detector. Asynchronous Sequential Circuit Design: Difference with synchronous circuit design, design principles and procedure, applications."
+    }
+      ],
+    "unit III": [
+        {
+          "UnitName": "Algorithmic State Machines",
+           "Content":"Algorithmic State Machines:  Finite State Machines (FSM) and ASM, ASM charts, notations, construction of ASM chart and realization for sequential circuits,  Sequence Generator, Types of Counters. VHDL: Introduction to HDL, Data Objects & Data Types, Attributes., VHDL- Library, Design Entity, Architecture, Modeling Styles, Concurrent and Sequential Statements,Design Examples: VHDL for Combinational Circuits-Adder, MUX, VHDL for Sequential Circuits, Synchronous and Asynchronous Counter."
+    }
+      ],
+
+    "unit IV": [
+        {
+          "UnitName": "Programmable Logic Devices ",
+           "Content":"ROM as PLD, Programmable Logic Array (PLA), Programmable Array Logic (PAL), Designing combinational circuits using PLDs. "
+    }
+      ],
+
+    "unit V": [
+        {
+          "UnitName": "Logic Families",
+           "Content":"Classification of logic families: Unipolar and Bipolar Logic Families, Characteristics of Digital ICs:  Speed, power dissipation, figure of merits, fan-out, Current and voltage parameters, Noise immunity, operating temperature range, power supply requirements. Transistor-Transistor Logic: Operation of TTL, Current sink logic, TTL with active pull up, TTL with open collector output, Schottkey TTL, TTL characteristics, TTL 5400/7400 series, CMOS: CMOS Inverter, CMOS characteristics, CMOS configurations- Wired Logic, Open drain outputs, Interfacing: TTL to CMOS and CMOS to TTL. Tristate Logic and Tristate TTL inverter."
+    }
+      ],
+     "unit VI": [
+        {
+          "UnitName": "Microcontrollers",
+           "Content":"Comparison of typical microprocessor and microcontroller. Microcontroller 8051: Features, architecture, Pin description, Programming model– Special Function Registers, addressing modes, instruction set, Timers and Counters, serial communication, interrupts, interfacing with ADC and DAC."
+         }
+       ]
+} 
+      ]
+}
+    
