@@ -5,23 +5,23 @@
      "modhash": "", 
      "subject":[
          {
-             "subjectName": "DAA",
+             "subjectName": "Discrete Mathematics",
              "data": 
              {"unitData":[{
                 "Id":"Unit I",
-                 "unitname":"content mangement sys",
-                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 "unitname":"Set Theory and Logic s",
+                 "content":"Discrete Mathematics, Significance of Discrete Mathematics in Computer Engineering, Sets– Naïve Set Theory (Cantorian Set Theory), Axiomatic Set Theory, Need for Sets, Representation of Sets, Set Operations, cardinality of set, principle of inclusion and exclusion, Types of Sets – Countable and Uncountable Sets, Finite and Infinite Sets, Countably Infinite and Uncountably Infinite Sets. Introduction to bounded and unbounded sets and multiset. Countability of Rational Numbers Using Cantor Diagonalization Argument, power set. Propositional Logic- logic, Propositional Equivalences, Application of Propositional Logic-Translating English Sentences, Proof by Mathematical Induction and Strong Mathematical Induction. "
                  
              },
                          {
                 "Id":"Unit II",
-                 "unitname":"content mangement sys",
-                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 "unitname":"Relations and Functions",
+                 "content":"Relations and Their Properties, n-ary Relations and Their Applications, Representing Relations , Closures of Relations, Equivalence Relations, Partial Orderings, partitions, Hasse Diagram, Lattices, Chains and Anti-Chains, Transitive Closure and Warshall‘s Algorithm, n-Ary Relations and their Applications.Functions- Surjective, Injective and Bijective functions, Inverse Functions and Compositions of Functions, The Pigeonhole Principle"
                  
              },{
                 "Id":"Unit III",
-                 "unitname":"content mangement sys",
-                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 "unitname":"Counting",
+                 "content":"The Basics of Counting, rule of Sum and Product, Permutations and Combinations, Binomial Coefficients and Identities, Generalized Permutations and Combinations, Algorithms for generating Permutations and Combinations"
                  
              }]
               
