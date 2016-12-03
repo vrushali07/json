@@ -1,34 +1,51 @@
 {
-  "data" : {
-    "subject" : {
-      "DAA" : {
-        "unitI" : {
-         "content":"Discrete Mathematics, Significance of Discrete Mathematics in Computer Engineering, Sets– Naïve Set Theory (Cantorian Set Theory), Axiomatic Set Theory, Need for Sets, Representation of Sets, Set Operations, cardinality of set, principle of inclusion and exclusion, Types of Sets – Countable and Uncountable Sets, Finite and Infinite Sets, Countably Infinite and Uncountably Infinite Sets. Introduction to bounded and unbounded sets and multiset. Countability of Rational Numbers Using Cantor Diagonalization Argument, power set. Propositional Logic- logic, Propositional Equivalences, Application of Propositional Logic-Translating English Sentences, Proof by Mathematical Induction and Strong Mathematical Induction",
-          "unitname" : "Daa Unit I"
-        },
-        "unitII" : {
-          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
-          "unitname" : "Daa Unit I"
-        },
-        "unitIII" : {
-          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
-          "unitname" : "Daa Unit I"
-        }
-      },
-      "Toc" : {
-        "unitI" : {
-          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
-          "unitname" : "TOC unit"
-        },
-        "unitII" : {
-          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
-          "unitname" : "toc unit 2"
-        },
-        "unitIII" : {
-          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
-          "unitname" : "tocunit 4"
-        }
-      }
-    }
-  }
-}
+ 
+            "data" : {
+              "dept" : "IT",
+              "subject" : [ {
+                "data" : {
+                  "subName" :"DAA",
+                  "SubId" : "101",
+                  "unit" : {
+                    "unitData" : [ {
+                      "id" : "unit I",
+                      "unitName":"Daa unit ",
+                      "content":"subject content ..hj"
+                    
+                      
+                    },{ "id" : "unit II",
+                      "unitName":"Daa unit II ",
+                      "content":"subject content ..hj"
+                    
+                      }]
+                  }
+                
+                },
+                "kind" : "t3"
+              }, {
+                "data" : {
+                  "subName" :"Toc",
+                  "SubId" : "102",
+                  "unit" : {
+                    "unitData" : [ {
+                      "id" : "unit I",
+                      "unitName":"Toc unit ",
+                      "content":"subject content ..hj"
+                    
+                      
+                    },{ "id" : "unit II",
+                      "unitName":"Toc unit II ",
+                      "content":"subject content ..hj"
+                    
+                      }]
+                  }
+                
+                },
+                "kind" : "t3"
+              } ],
+              "modhash" : ""
+            },
+            "kind" : "Listing"
+          }
+        
+      
