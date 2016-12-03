@@ -1,0 +1,34 @@
+{
+  "data" : {
+    "subject" : {
+      "DAA" : {
+        "unit I" : {
+          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
+          "unitname" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk"
+        },
+        "unit II" : {
+          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
+          "unit name" : "hjgfjsh "
+        },
+        "unit III" : {
+          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
+          "unit name" : "Daa unit"
+        }
+      },
+      "Toc" : {
+        "unit I" : {
+          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
+          "unit name" : "TOC unit"
+        },
+        "unit II" : {
+          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
+          "unit name" : "toc unit 2"
+        },
+        "unit III" : {
+          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
+          "unit name" : "toc unit 4"
+        }
+      }
+    }
+  }
+}
