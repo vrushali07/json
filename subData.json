@@ -1,0 +1,176 @@
+{
+  "dept":[{
+    
+    "deptName":"IT",
+    "subject":[{
+      "subjectName":"SA",
+      "unit":[{
+        "unitId":"I",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"II",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"III",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"IV",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"V",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"VI",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      }]
+     
+    },
+    {
+      "subjectName":"SA",
+      "unit":[{
+        "unitId":"I",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"II",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"III",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"IV",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"V",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"VI",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      }]
+     
+    },
+    {
+      "subjectName":"SA",
+      "unit":[{
+        "unitId":"I",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"II",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"III",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"IV",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"V",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"VI",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      }]
+     
+    },
+    {
+      "subjectName":"SA",
+      "unit":[{
+        "unitId":"I",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"II",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"III",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"IV",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"V",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"VI",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      }]
+     
+    },
+    {
+      "subjectName":"SA",
+      "unit":[{
+        "unitId":"I",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"II",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"III",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"IV",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"V",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      },
+      {
+        "unitId":"VI",
+        "unitName":"Trees",
+        "content":"Introduction, properties of trees,  Binary search tree, decision tree, prefix codes and Huffman coding,  cut sets, Spanning Trees and Minimum Spanning Tree, Kruskal‘s and Prim‘s algorithms,  The Max flow- Min Cut Theorem (Transport network). Case Study- Game Tree, Mini-Max Tree."
+      }]
+     
+    }]
+  }]
+}
