@@ -1,6 +1,9 @@
+
+
+
 {
   "computerSE": [
-    {
+    {   "subData":{
         "SubName": "Discrete Mathematics ",
          
       "unit":[ 
@@ -16,6 +19,7 @@
           "UnitId":"II",
            "Content":"Relations and Their Properties, n-ary Relations and Their Applications, Representing Relations , Closures of Relations, Equivalence Relations, Partial Orderings, partitions, Hasse Diagram, Lattices, Chains and Anti-Chains, Transitive Closure and Warshall‘s Algorithm, n-Ary Relations and their Applications.Functions- Surjective, Injective and Bijective functions, Inverse Functions and Compositions of Functions, The Pigeonhole Principle."
     }
+    
       ,
     
         {
@@ -47,8 +51,9 @@
            "Content":"The structure of algebra, Algebraic Systems, Semi Groups, Monoids, Groups, Homomorphism and Normal Subgroups, and congruence relations,  Rings, Integral Domains and Fields, coding theory,  Polynomial Rings and polynomial Codes, Case Study- Brief introduction to  Galois Theory –Field Theory and Group Theory."
          }]
        
+}
 },
- {
+ { "subData":{
       "SubName": "Discrete Mathematics ",
          
       "unit":[ 
@@ -95,8 +100,8 @@
            "Content":"The structure of algebra, Algebraic Systems, Semi Groups, Monoids, Groups, Homomorphism and Normal Subgroups, and congruence relations,  Rings, Integral Domains and Fields, coding theory,  Polynomial Rings and polynomial Codes, Case Study- Brief introduction to  Galois Theory –Field Theory and Group Theory."
          }]
        
-},
-      {
+} },
+      { "subData":{
         "SubName": "Discrete Mathematics ",
          
       "unit":[ 
@@ -143,7 +148,7 @@
            "Content":"The structure of algebra, Algebraic Systems, Semi Groups, Monoids, Groups, Homomorphism and Normal Subgroups, and congruence relations,  Rings, Integral Domains and Fields, coding theory,  Polynomial Rings and polynomial Codes, Case Study- Brief introduction to  Galois Theory –Field Theory and Group Theory."
          }]
        
-} ,{
+} },{ "subData":{
         "SubName": "Discrete Mathematics ",
          
       "unit":[ 
@@ -190,7 +195,7 @@
            "Content":"The structure of algebra, Algebraic Systems, Semi Groups, Monoids, Groups, Homomorphism and Normal Subgroups, and congruence relations,  Rings, Integral Domains and Fields, coding theory,  Polynomial Rings and polynomial Codes, Case Study- Brief introduction to  Galois Theory –Field Theory and Group Theory."
          }]
        
-} ,{
+} },{ "subData":{
        "SubName": "Discrete Mathematics ",
          
       "unit":[ 
@@ -237,7 +242,7 @@
            "Content":"The structure of algebra, Algebraic Systems, Semi Groups, Monoids, Groups, Homomorphism and Normal Subgroups, and congruence relations,  Rings, Integral Domains and Fields, coding theory,  Polynomial Rings and polynomial Codes, Case Study- Brief introduction to  Galois Theory –Field Theory and Group Theory."
          }]
        
-}
+}}
       ]
 }
     
