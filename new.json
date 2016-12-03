@@ -3,7 +3,7 @@
     "subject" : {
       "DAA" : {
         "unitI" : {
-          "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
+         "content":"Discrete Mathematics, Significance of Discrete Mathematics in Computer Engineering, Sets– Naïve Set Theory (Cantorian Set Theory), Axiomatic Set Theory, Need for Sets, Representation of Sets, Set Operations, cardinality of set, principle of inclusion and exclusion, Types of Sets – Countable and Uncountable Sets, Finite and Infinite Sets, Countably Infinite and Uncountably Infinite Sets. Introduction to bounded and unbounded sets and multiset. Countability of Rational Numbers Using Cantor Diagonalization Argument, power set. Propositional Logic- logic, Propositional Equivalences, Application of Propositional Logic-Translating English Sentences, Proof by Mathematical Induction and Strong Mathematical Induction",
           "unitname" : "Daa Unit I"
         },
         "unitII" : {
@@ -26,7 +26,7 @@
         },
         "unitIII" : {
           "content" : "jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjsk",
-          "unitname" : "toc unit 4"
+          "unitname" : "tocunit 4"
         }
       }
     }
