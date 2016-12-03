@@ -1,3 +1,88 @@
-{"kind": "Listing", "data": {"modhash": "", "subject": [{"kind": "t3", "data": {"contest_mode": false, "banned_by": null, "domain": "bbc.co.uk", "subreddit": "Android", "selftext_html": null}}
-]
+{"kind": "Listing", 
+ "data":
+ {
+     "modhash": "", 
+     "subject":[
+         {
+             "subjectName": "DAA",
+             "data": 
+             {"unitData":[{
+                "Id":"I",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             },
+                         {
+                "Id":"II",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             },{
+                "Id":"III",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             }]
+              
+             
+         }
+       
+         
+         },
+        {
+             "subjectName": "SA",
+             "data": 
+             {"unitData":[{
+                "Id":"I",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             },
+                         {
+                "Id":"II",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             },{
+                "Id":"III",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             }]
+              
+             
+         }
+       
+         
+         },
+        {
+             "subjectName": "TOC",
+             "data": 
+             {"unitData":[{
+                "Id":"I",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             },
+                         {
+                "Id":"II",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             },{
+                "Id":"III",
+                 "unitname":"content mangement sys",
+                 "content":"jhjs hfjs hjjjjnjk mnjksh hjdsgjsgs khjsgskg kjhgsg shjfjhdfskjh jhsfjsfh jhsdjss kjshgjskg"
+                 
+             }]
+              
+             
+         }
+       
+         
+         }],
+     "after": "t3_5g2ade", 
+     "before": null
+ 
+}
 }
