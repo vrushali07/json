@@ -1,5 +1,5 @@
-{
-  "dept":[{
+{"data":"mydata",
+  "deptdeteils":{"dept":[{
     
     "deptName":"IT",
     "subject":[{
@@ -173,4 +173,5 @@
      
     }]
   }]
+  }
 }
